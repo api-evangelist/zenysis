@@ -1,0 +1,16 @@
+generated: '2026-07-21'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: zenysis.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Oct 11 09:20:39 2026 GMT
+  hsts: false
+domains:
+- domain: zenysis.com
+  dnssec: true
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: quarantine

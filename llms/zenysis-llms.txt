@@ -1,0 +1,24 @@
+# Zenysis
+
+> Zenysis is a health intelligence infrastructure company that helps governments and organizations in low- and middle-income countries turn fragmented health data into actionable insight. Its flagship, open-source Harmony Analytics Platform transforms, cleans, and enriches data from multiple sources for analysis and decision-making. There is no public hosted API; Harmony is self-hosted and exposes its own REST (Flask-Potion) and GraphQL interfaces per deployment.
+
+## Company
+- [Zenysis](https://www.zenysis.com/): Health intelligence infrastructure for governments in low- and middle-income countries.
+- [About](https://www.zenysis.com/about): Company mission, team, and approach.
+- [Platform](https://www.zenysis.com/solutions/platform): The Harmony data-integration and analytics platform.
+- [AI Enablement](https://www.zenysis.com/solutions/ai-enablement): AI capabilities layered on harmonized data.
+- [Use Cases](https://www.zenysis.com/use-cases): How governments apply Zenysis to health programs.
+- [News](https://www.zenysis.com/news): Company blog and announcements.
+
+## Platform & Source Code (open source, AGPL-3.0)
+- [Zenysis on GitHub](https://github.com/Zenysis): Open-source organization.
+- [Harmony](https://github.com/Zenysis/Harmony): The Harmony Analytics Platform — transforms, cleans, and enriches multi-source data.
+- [Harmony Wiki](https://github.com/Zenysis/Harmony/wiki): Setup, deployment, and platform documentation.
+
+## Contact
+- [Contact](https://www.zenysis.com/contact): Support and inquiries (technical: harmony@zenysis.com).
+- [Request a Demo](https://www.zenysis.com/demo): Get started / request access.
+
+## Legal
+- [Privacy Policy](https://www.zenysis.com/privacy-policy)
+- [Ethics](https://www.zenysis.com/ethics)
